@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.divText{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+.t1{
+    color: rgb(8, 8, 115);
+    font-size:300%;
+    margin-top: 50px;
+}
+.divImg{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.divInput{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    font-size: 150%;
+    margin-top: 40px;
+}
+.resposta{
+    background-color:rgb(8, 8, 115);
+    border: 30px;
+    color: white;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    font-size: 200%;
+    margin-top: 40px;
+}
